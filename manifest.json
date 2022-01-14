@@ -1,13 +1,13 @@
 {
-  "name": "FPHT P R",
-  "short_name": "FPHT PR",
+  "name": "FHFT - Cardiac Rehab - Progressive Relaxation",
+  "short_name": "FHFT CR/PR",
   "start_url": "/pr/index.html",
   "display": "standalone",
   "background_color": "black",
-  "description": "FPHT Progressive Relaxation",
+  "description": "FHFT - Cardiac Rehab - Progressive Relaxation script",
   "icons": [
     {
-      "src": "ios-fpht-pr-128.png",
+      "src": "ios-fhft-pr-128.png",
       "sizes": "128x128",
       "type": "image/png"
     }
