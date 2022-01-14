@@ -1,7 +1,7 @@
 {
   "name": "FPHT Progressive Relaxation",
   "short_name": "FPHT Progressive Relaxation",
-  "start_url": "/index.html",
+  "start_url": "/pr/index.html",
   "display": "standalone",
   "background_color": "black",
   "description": "FPHT Progressive Relaxation",
